@@ -1,0 +1,4 @@
+[submodule "web-search"]
+	path = web-search
+	url = git@github.com:N0YU0/web-search.git
+	branch = main
